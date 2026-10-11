@@ -13,7 +13,7 @@ export default function Login(){
       </form>
       <hr />
       <span>Ainda não tem uma conta?</span>
-      <Link to="/cadastro">Criar uma conta</Link>
+      <Link to="/register">Criar uma conta</Link>
     </div>
   )
 }
